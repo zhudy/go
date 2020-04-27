@@ -3,6 +3,7 @@
 官网：
 golang.org  //md墙了
 https://golang.google.cn/  //国内可用，阉割了Blog，Play等
+https://golang.org/doc/install/source //源码安装...
 
 指南
 https://tour.golang.org   //md墙了
