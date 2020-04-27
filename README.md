@@ -1,5 +1,9 @@
 # go
 
+官网：
+golang.org  //md墙了
+https://golang.google.cn/  //国内可用，阉割了Blog，Play等
+
 指南
 https://tour.golang.org   //md墙了
 https://tour.go-zh.org/welcome/1  //中文版
