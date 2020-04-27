@@ -1,0 +1,4 @@
+1. 先玩tour指南: https://tour.go-zh.org/welcome/1
+2. 再看书 gopl
+
+https://go-zh.org/
