@@ -7,8 +7,8 @@ https://go-zh.org/  //这个应该是国内爱好者搞的，不知道与上面�
 https://golang.org/doc/install/source //源码安装...
 
 指南
-https://tour.golang.org   //md墙了
-https://tour.go-zh.org/welcome/1  //中文版
+https://tour.golang.org   //官方指南md墙了
+https://tour.go-zh.org/welcome/1  //中文版，应该是爱好者搞的，但官网提供了这个的链接。
 
 书：go编程语言
 https://gopl.io //md墙了
