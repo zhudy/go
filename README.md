@@ -2,7 +2,8 @@
 
 官网：
 golang.org  //md墙了
-https://golang.google.cn/  //国内可用，阉割了Blog，Play等
+https://golang.google.cn/  //国内可用，阉割了Blog，Play等的英文版
+https://go-zh.org/  //这个应该是国内爱好者搞的，不知道与上面的官网有什么区别... 像是中英文版的区别
 https://golang.org/doc/install/source //源码安装...
 
 指南
