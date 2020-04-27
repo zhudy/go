@@ -1,4 +1,8 @@
 1. 先玩tour指南: https://tour.go-zh.org/welcome/1
+1.1 go get golang.org/x/tour  //md要翻墙,算了玩下面的吧
+1.2 go get -u github.com/Go-zh/tour tour  //再说吧
+1.3 继续在线的https://tour.go-zh.org/basics/1
+
 2. 再看书 gopl
 
 https://go-zh.org/
