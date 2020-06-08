@@ -6,3 +6,10 @@
 2. 再看书 gopl
 
 https://go-zh.org/
+
+
+bilibili上的 2020最新golang入门到精通课程 https://www.bilibili.com/video/BV1r541167Gh?p=1
+https://www.liwenzhou.com/（这里的视频相对上面那个比较老）
+
+vscode 扩展: 中文，go
+  go插件： 下载all到gopath-bin(需要设置proxy: https://localhost:3000), 备份在pan.baidu.com
